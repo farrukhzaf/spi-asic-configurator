@@ -152,3 +152,18 @@ STM32G474 firmware runs 7 test categories over UART at 115200 baud:
 | 3 | FPGA race fix | Memory write moved from posedge cs to posedge sclk |
 | 4 | ASIC hardening | cs removed as clock/reset except targeted bit_count clear; SDC constraints |
 | 5 | Output ports | reg_file with reg[0..4]_out ports for layout integration |
+
+## Author
+
+**Your Name**
+- GitHub: [@farrukhzaf](https://github.com/farrukhzaf)
+- LinkedIn: [Mohammad Farukh Zafar](https://linkedin.com/in/farukhzafar)
+- Email: farukhzafar@iisc.ac.in
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+⭐ **If you found this helpful, please star this repository!**
